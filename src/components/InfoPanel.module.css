@@ -1,0 +1,13 @@
+.container {
+  height: 400px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.panel {
+  width: inherit;
+  height: 1300px;
+  margin-top: -720px;
+  overflow: hidden;
+  resize: none;
+}

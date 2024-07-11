@@ -1,0 +1,12 @@
+.card {
+  border: 1px solid black;
+  height: 500px;
+  width: 500px;
+}
+
+.card > img {
+  max-height: 100%;
+  max-width: 100%;
+  height: auto;
+  width: auto;
+}
